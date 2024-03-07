@@ -15,7 +15,7 @@ import {
 } from "@chakra-ui/react";
 import Joi, { func } from "joi";
 import apis from "../services/index";
-import Cookies from "js-cookie";
+//import Cookies from "js-cookie";
 import { useNavigate, Link as RouterLink } from "react-router-dom";
 import logo from "../assets/PAlogo.png";
 import bg from "../assets/planawaybg.png";
