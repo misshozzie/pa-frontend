@@ -12,7 +12,7 @@ import {
   Text,
 } from "@chakra-ui/react";
 import Joi from "joi";
-import Cookies from "js-cookie";
+//import Cookies from "js-cookie";
 import React, { useEffect, useState } from "react";
 import { Link as RouterLink, useNavigate } from "react-router-dom";
 import logo from "../assets/PAlogo.png";
